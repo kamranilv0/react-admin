@@ -46,11 +46,9 @@ const Topbar = () => {
                 <IconButton>
                     <PersonOutlinedIcon />
                 </IconButton>
-                <IconButton>
-
-                </IconButton>
             </Box>
-        </Box>)
+        </Box>
+    );
 };
 
 export default Topbar;

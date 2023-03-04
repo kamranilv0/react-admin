@@ -141,7 +141,7 @@ export const themeSettings = (mode) => {
                         main: colors.grey[500],
                         light: colors.grey[100]
                     },
-                    backgroun: {
+                    background: {
                         default: colors.primary[500]
                     }
                 } : {
@@ -156,7 +156,7 @@ export const themeSettings = (mode) => {
                         main: colors.grey[500],
                         light: colors.grey[100]
                     },
-                    backgroun: {
+                    background: {
                         default: "#fcfcfc",
                     }
                 })
