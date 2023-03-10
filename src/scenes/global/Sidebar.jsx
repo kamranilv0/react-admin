@@ -57,9 +57,9 @@ const Sidebar = () => {
                             justifyContent="space-between"
                             alignItems="center"
                             ml="15px">
-                            <Typography >
+                            <div >
                                 ADMINIS
-                            </Typography>
+                            </div>
                             <IconButton>
                                 <MenuOutlinedIcon />
                             </IconButton>
